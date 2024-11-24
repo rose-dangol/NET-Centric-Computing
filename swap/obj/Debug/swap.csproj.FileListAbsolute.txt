@@ -1,0 +1,7 @@
+C:\Users\rosedangol\Desktop\net_centric\swap\bin\Debug\swap.exe.config
+C:\Users\rosedangol\Desktop\net_centric\swap\bin\Debug\swap.exe
+C:\Users\rosedangol\Desktop\net_centric\swap\bin\Debug\swap.pdb
+C:\Users\rosedangol\Desktop\net_centric\swap\obj\Debug\swap.csproj.AssemblyReference.cache
+C:\Users\rosedangol\Desktop\net_centric\swap\obj\Debug\swap.csproj.CoreCompileInputs.cache
+C:\Users\rosedangol\Desktop\net_centric\swap\obj\Debug\swap.exe
+C:\Users\rosedangol\Desktop\net_centric\swap\obj\Debug\swap.pdb
