@@ -1,0 +1,7 @@
+C:\Users\rosedangol\Desktop\net_centric\calendarView\bin\Debug\calendarView.exe.config
+C:\Users\rosedangol\Desktop\net_centric\calendarView\bin\Debug\calendarView.exe
+C:\Users\rosedangol\Desktop\net_centric\calendarView\bin\Debug\calendarView.pdb
+C:\Users\rosedangol\Desktop\net_centric\calendarView\obj\Debug\calendarView.csproj.AssemblyReference.cache
+C:\Users\rosedangol\Desktop\net_centric\calendarView\obj\Debug\calendarView.csproj.CoreCompileInputs.cache
+C:\Users\rosedangol\Desktop\net_centric\calendarView\obj\Debug\calendarView.exe
+C:\Users\rosedangol\Desktop\net_centric\calendarView\obj\Debug\calendarView.pdb
